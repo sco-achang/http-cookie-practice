@@ -1,0 +1,23 @@
+{
+  "name": "http-cookie-practice",
+  "version": "1.0.0",
+  "description": "cookie creation practice",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sco-achang/http-cookie-practice.git"
+  },
+  "author": "Albert Chang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sco-achang/http-cookie-practice/issues"
+  },
+  "homepage": "https://github.com/sco-achang/http-cookie-practice#readme"
+}
